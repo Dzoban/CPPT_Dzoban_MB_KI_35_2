@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Клас Lab2 реалізує приклад програми до лабораторної роботи №2
  *
- * @author No Information
+ * @author Mykola Dzoban
  * @version 1.0
  * @since version 1.0
  *
