@@ -57,7 +57,7 @@ public class Main
                 }
                 else
                 {
-                System.out.print("\nЗабагато символів заповнювачів");
+                    System.out.print("\nЗабагато символів заповнювачів");
                     break exit;
                 }
             }
