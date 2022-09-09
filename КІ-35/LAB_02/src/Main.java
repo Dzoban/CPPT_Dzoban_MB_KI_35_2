@@ -3,8 +3,8 @@ import java.util.*;
 /**
  * Клас Lab2 реалізує приклад програми до лабораторної роботи №2
  *
- * @author No Information
- * @version 1.0
+ * @author Mykola Dzoban
+ * @version 1.0.1
  * @since version 1.0
  *
  */
@@ -17,7 +17,7 @@ public class Main
      * @throws FileNotFoundException check file existing
      *
      */
-    public static void main(String[] args) throws FileNotFoundException
+    public static void main(String... args) throws FileNotFoundException
     {
         int nRows;
         char[][] arr;
