@@ -10,6 +10,7 @@ import java.util.*;
  */
 public class Main
 {
+
     /**
      * Статичний метод main є точкою входу в програму
      *
