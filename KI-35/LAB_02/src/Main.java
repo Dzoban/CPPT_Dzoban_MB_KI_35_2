@@ -30,6 +30,7 @@ public class Main
         System.out.print("Введіть розмір квадратної матриці: ");
         nRows = in.nextInt();
         in.nextLine();
+
         int b = nRows%2;
         arr = new char[nRows][];
         for(int i = 0; i < nRows; i++)
@@ -43,6 +44,7 @@ public class Main
         exit:
         for(int i = 0; i < nRows; i++)
         {
+
             for(int j = 0; j < arr[i].length; j++)
             {
                 if(filler.length() == 1)
