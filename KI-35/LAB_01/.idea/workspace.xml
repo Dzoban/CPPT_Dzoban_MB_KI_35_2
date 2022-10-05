@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659fc491-3b34-4474-9778-9ac7dd50debc" name="Changes" comment="LAB_01">
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/.idea/sonarlint/issuestore/0/9/091eb7f264fce1329efa4779dcbb84ae0d4bea47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/LAB_01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_01/src/HelloJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/LAB_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/MyFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../КІ-35/LAB_02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +28,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Навчання 3 курс, 1 семестр/КЗП/CPPT_Dzoban_MB_KI_35_2/KI-35/LAB_02"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study3/CPPT/CPPT_Dzoban_MB_KI_35_2/KI-35/LAB_01&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +48,19 @@
       <workItem from="1661444549781" duration="2000" />
       <workItem from="1662718880731" duration="30000" />
       <workItem from="1663165567656" duration="350000" />
+      <workItem from="1663597300740" duration="161000" />
+      <workItem from="1664293209633" duration="130000" />
+      <workItem from="1664393695043" duration="749000" />
+      <workItem from="1664978605949" duration="115000" />
     </task>
+    <task id="LOCAL-00001" summary="LAB_01">
+      <created>1664393804311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664393804311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LAB_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB_01" />
   </component>
 </project>
