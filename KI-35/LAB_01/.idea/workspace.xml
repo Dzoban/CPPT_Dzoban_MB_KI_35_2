@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659fc491-3b34-4474-9778-9ac7dd50debc" name="Changes" comment="LAB_01">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/MyFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/MyFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/class-use/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_02/src/javadoc/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_02/src/javadoc/package-use.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +50,17 @@
       <workItem from="1663165567656" duration="350000" />
       <workItem from="1663597300740" duration="161000" />
       <workItem from="1664293209633" duration="130000" />
+      <workItem from="1664393695043" duration="749000" />
+      <workItem from="1664978605949" duration="115000" />
     </task>
+    <task id="LOCAL-00001" summary="LAB_01">
+      <created>1664393804311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664393804311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LAB_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB_01" />
   </component>
 </project>
