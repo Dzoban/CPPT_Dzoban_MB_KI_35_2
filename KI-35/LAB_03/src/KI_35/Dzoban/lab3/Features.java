@@ -1,4 +1,4 @@
-package dog_lab3;
+package KI_35.Dzoban.lab3;
 /** Class Features implements the features of the pet
  *
  * @author Mykola Dzoban

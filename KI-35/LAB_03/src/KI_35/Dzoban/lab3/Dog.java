@@ -1,4 +1,4 @@
-package dog_lab3;
+package KI_35.Dzoban.lab3;
 import java.io.*;
 import static java.lang.System.*;
 /** Class Dog implements your own pet
@@ -167,6 +167,11 @@ public class Dog {
         fout.print("Dog jump on: " + walk.getXCoordinate() + ", " + walk.getYCoordinate()+"\n");
         fout.flush();
     }
-
-
+    /**
+     * Method close file
+     */
+    public void dis()
+    {
+        fout.close();
+    }
 }

@@ -1,4 +1,4 @@
-package dog_lab3;
+package KI_35.Dzoban.lab3;
 import static java.lang.System.*;
 /** Class Opportunities implements what user can do with the pet
  *
@@ -64,7 +64,8 @@ public class Opportunities {
      */
     public void Sleep(int hour){
         if (hour <= 0){
-            out.print("Your dog is exhausted!!!");
+            out.print("Your dog is exhausted!!!\n");
+            this.dream = hour;
         }
         else {
             this.dream = hour;
@@ -90,7 +91,7 @@ public class Opportunities {
      */
     public void Wash(int wash){
         if ((this.wash+wash) <= 0){
-            out.print("Your dog is very dirty!!!");
+            out.print("Your dog is very dirty!!!\n");
         }
         else {
             this.wash += wash;

@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dog_lab3","l":"Dog"},{"p":"<Unnamed>","l":"DogApp"},{"p":"dog_lab3","l":"Features"},{"p":"dog_lab3","l":"Opportunities"},{"p":"dog_lab3","l":"Walk"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_35.Dzoban.lab3","l":"Dog"},{"p":"<Unnamed>","l":"DogApp"},{"p":"KI_35.Dzoban.lab3","l":"Features"},{"p":"KI_35.Dzoban.lab3","l":"Opportunities"},{"p":"KI_35.Dzoban.lab3","l":"Walk"}];updateSearchResults();
