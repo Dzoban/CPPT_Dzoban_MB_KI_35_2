@@ -1,6 +1,5 @@
 import KI_35.Dzoban.lab4.*;
 
-
 import java.io.*;
 import static java.lang.System.*;
 import java.util.Scanner;
