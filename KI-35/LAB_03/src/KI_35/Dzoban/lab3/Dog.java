@@ -9,11 +9,14 @@ import static java.lang.System.*;
  *
  */
 public class Dog {
+    public static char[] noOfObjects;
     private Features fea;
     private Opportunities opps;
     private Walk walk;
 
     private PrintWriter fout;
+
+    static public int numOfOb = 0;
     /**
      * Constructor
      * @throws FileNotFoundException check file existing
@@ -40,6 +43,9 @@ public class Dog {
         fout.print("Dog energy: "+fea.getEnergy()+"\n");
         fout.print("Dog age: "+fea.getAge()+"\n");
         fout.flush();
+        if (age > 3) {
+            ++numOfOb;
+        }
     }
 
     /**

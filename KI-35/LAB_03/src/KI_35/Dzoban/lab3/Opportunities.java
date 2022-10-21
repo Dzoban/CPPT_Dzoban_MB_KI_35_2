@@ -8,7 +8,6 @@ import static java.lang.System.*;
  *
  */
 public class Opportunities {
-    private Features features;
     private int dream,hunger,wash;
     /**
      * Constructor
