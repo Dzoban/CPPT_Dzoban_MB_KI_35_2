@@ -4,7 +4,8 @@ import java.io.*;
 import static java.lang.System.*;
 import java.util.Scanner;
 
-/** Class DogApp implements example of lab№3 program
+/**
+ * Class DogApp implements example of lab№4 program
  *
  * @author Mykola Dzoban
  * @version 1.0.3
@@ -18,11 +19,10 @@ public class DogApp {
      * @throws FileNotFoundException check file existing
      *
      */
-    public static void main(String[] args) throws FileNotFoundException
-    {
-        int hp,en,age,age2,hun,dream,wash,wash2,food,hour,xPos,vac;
+    public static void main(String[] args) throws FileNotFoundException {
+        int hp, en, age, age2, hun, dream, wash, wash2, food, hour, xPos, vac;
         Scanner scanner = new Scanner(System.in);
-        //scanner.useDelimiter("\r?\n");
+        // scanner.useDelimiter("\r?\n");
         out.print("Make your own pet!\n");
         out.print("Please, enter your dog features:\n");
         out.print("Health: ");
@@ -32,7 +32,7 @@ public class DogApp {
         out.print("Age: ");
         age = scanner.nextInt();
         testDog dog = new testDog();
-        dog.makeDog(hp,en,age);
+        dog.makeDog(hp, en, age);
         dog.aboutDog();
         out.print("Please, enter your dog features:\n");
         out.print("Hunger: ");
@@ -41,7 +41,7 @@ public class DogApp {
         dream = scanner.nextInt();
         out.print("Purity: ");
         wash = scanner.nextInt();
-        dog.oppDog(hun,dream,wash);
+        dog.oppDog(hun, dream, wash);
         out.print("Do you want to feed your dog? If yes - enter number greater than 0, if no - enter 0: ");
         food = scanner.nextInt();
         dog.feedDog(food);
@@ -65,16 +65,16 @@ public class DogApp {
         xPos = scanner.nextInt();
         dog.walkRightWithDog(xPos);
         dog.getDogPosition();
-        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0.0, if no - enter 0: ");
+        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0, if no - enter 0: ");
         vac = scanner.nextInt();
         dog.reactionOnVaccine(vac);
-        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0.0, if no - enter 0: ");
+        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0, if no - enter 0: ");
         vac = scanner.nextInt();
         dog.reactionOnVaccine(vac);
-        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0.0, if no - enter 0: ");
+        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0, if no - enter 0: ");
         vac = scanner.nextInt();
         dog.reactionOnVaccine(vac);
-        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0.0, if no - enter 0: ");
+        out.print("Do you want to give your dog a vaccine? If yes - enter value greater than 0, if no - enter 0: ");
         vac = scanner.nextInt();
         dog.reactionOnVaccine(vac);
         dog.dis();

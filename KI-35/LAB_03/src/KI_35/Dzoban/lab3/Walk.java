@@ -1,5 +1,5 @@
 package KI_35.Dzoban.lab3;
-import static java.lang.System.*;
+
 /** Class Walk implements the walk with the pet
  *
  * @author Mykola Dzoban

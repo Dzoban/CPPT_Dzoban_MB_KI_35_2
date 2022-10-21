@@ -1,13 +1,3 @@
-Dog health: 98
-Dog energy: 77
-Dog age: 1
-Hunger: 66
-Dream: 5
-Purity: 12
-Dog's hunger: 66
-Dog's dream: 0
-Dog's purity: 44
-Dog grows: 2
-New dog position: 0
-Walk left position: -6
-Walk right position: 3
+Dog health: 0
+Dog energy: 0
+Dog age: 5
