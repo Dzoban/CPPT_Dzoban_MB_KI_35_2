@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_35.Dzoban.lab4","l":"Dog"},{"p":"<Unnamed>","l":"DogApp"},{"p":"KI_35.Dzoban.lab4","l":"Features"},{"p":"KI_35.Dzoban.lab4","l":"makeVaccine"},{"p":"KI_35.Dzoban.lab4","l":"Opportunities"},{"p":"KI_35.Dzoban.lab4","l":"testDog"},{"p":"KI_35.Dzoban.lab4","l":"Walk"}];updateSearchResults();

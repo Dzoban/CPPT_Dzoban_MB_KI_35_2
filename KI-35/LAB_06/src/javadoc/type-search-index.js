@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_35.Dzoban.Lab6","l":"CalcException"},{"p":"KI_35.Dzoban.Lab6","l":"Calculation"},{"p":"<Unnamed>","l":"Main"}];updateSearchResults();
