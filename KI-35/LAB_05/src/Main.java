@@ -28,6 +28,8 @@ public class Main {
                 {
                     Calculation calc = new Calculation();
                     out.print("Enter X: ");
+                    fout.print(calc.calculate(in.nextInt())+"\n");
+                    out.print("Enter X for test: ");
                     fout.print(calc.calculate(in.nextInt()));
                 }
                 finally
@@ -36,10 +38,11 @@ public class Main {
                     fout.close();
                 }
             }
-            catch (CalcException ex)
+            catch (CalcException | ExceptionTest ex)
             {
                 out.print(ex.getMessage());
             }
+
         }
         catch (FileNotFoundException ex)
         {
