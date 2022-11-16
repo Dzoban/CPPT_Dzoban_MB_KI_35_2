@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_35.Dzoban.lab7","l":"Element"},{"p":"KI_35.Dzoban.lab7","l":"IElements"},{"p":"KI_35.Dzoban.lab7","l":"LinkedList"},{"p":"<Unnamed>","l":"LinkedListApp"}];updateSearchResults();

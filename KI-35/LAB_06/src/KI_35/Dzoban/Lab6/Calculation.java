@@ -20,7 +20,10 @@ public class Calculation {
         rad = (x * Math.PI) / 180.0;
 
         try {
-            y = Math.sin(rad) / Math.cos(rad);
+                y = (Math.sin(rad) / Math.cos(rad));
+
+
+
 
             if (y == Double.NaN || y == Double.NEGATIVE_INFINITY || y == Double.POSITIVE_INFINITY || x == 90 || x == -90)
                 throw new ArithmeticException();
@@ -42,7 +45,7 @@ public class Calculation {
     public void writeResTxt(String fName) throws FileNotFoundException
     {
         PrintWriter f = new PrintWriter(fName);
-        f.printf("%f ", y);
+        f.printf("%f ",y);
         f.close();
     }
 
@@ -79,4 +82,5 @@ public class Calculation {
         y = f.readDouble();
         f.close();
     }
+
 }

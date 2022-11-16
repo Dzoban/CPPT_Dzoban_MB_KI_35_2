@@ -31,6 +31,8 @@ public class Main {
                     obj.calculate(data);
                     System.out.println("Result is: " + obj.getResult());
                     fout.print("Result is: " + obj.getResult());
+                    RandomAccessFile raf = new RandomAccessFile("randomFile.txt", "rw");
+                    raf.write("RandomAccessFile".getBytes());
 
                     obj.writeResTxt("textRes.txt");
                     obj.writeResBin("BinRes.bin");
@@ -39,6 +41,7 @@ public class Main {
                     System.out.println("Result from BinRes file is: " + obj.getResult());
                     obj.readResTxt("textRes.txt");
                     System.out.println("Result from textRes file is: " + obj.getResult());
+
                 }
                 finally
                 {
@@ -49,6 +52,10 @@ public class Main {
             catch (CalcException ex)
             {
                 out.print(ex.getMessage());
+//                FileWriter fstream =new FileWriter(fName);
+//                BufferedWriter out=new BufferedWriter(fstream);
+//                out.write(ex.toString());
+//                out.close();
             }
         }
         catch (FileNotFoundException ex)
